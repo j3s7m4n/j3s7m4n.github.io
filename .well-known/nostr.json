@@ -1,9 +1,5 @@
 {
   "names": {
-    "j3s7m4n": "npub1dg3r4fdstd4lwpafrvtwxptptjy9952hl2gwzwd2qz9l0crtpz4q8s8quj",
-    "j3s7m4n-extra": "npub1dg3r4fdstd4lwpafrvtwxptptjy9952hl2gwzwd2qz9l0crtpz4q8s8quj"
-  },
-  "relays": {
-    "npub1dg3r4fdstd4lwpafrvtwxptptjy9952hl2gwzwd2qz9l0crtpz4q8s8quj": [ "wss://nostr-relay.j3s7m4n.com" ]
+    "j3s7m4n": "npub1dg3r4fdstd4lwpafrvtwxptptjy9952hl2gwzwd2qz9l0crtpz4q8s8quj"
   }
 }
